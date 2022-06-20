@@ -153,3 +153,8 @@
 		}
 	}
 }
+
+#root > main > section.features-split.section.illustration-section-02 > div > div > div.split-wrap.invert-mobile > div:nth-child(2) > div.split-item-image.center-content-mobile.reveal-from-bottom.split-item-image-fill.is-revealed > img,
+#root > main > section.features-split.section.illustration-section-02 > div > div > div.split-wrap.invert-mobile > div:nth-child(3) > div.split-item-image.center-content-mobile.reveal-from-bottom.split-item-image-fill.is-revealed > img{
+	width:50%;
+}
