@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
-import { Linking } from 'react-native';
+// import { Linking } from 'react-native';
 // import Input from '../elements/Input';
 import Button from '../elements/Button';
 import ButtonGroup from '../elements/ButtonGroup';
@@ -64,9 +64,9 @@ const Cta = ({
                   <Button tag="a" color="success" wideMobile href="https://www.linkedin.com/in/ilan-scher-a42763236/" target="_blank">
                     View on linkedin
               </Button>
-              <Button onPress={() => Linking.openURL('mailto:ilan61300@gmail.com?subject=SendMail&body=We are interested about tour profile') }
+              {/* <Button onPress={() => Linking.openURL('mailto:ilan61300@gmail.com?subject=SendMail&body=We are interested about tour profile') }
                 title="ilan61300@gmail.com">
-              </Button>
+              </Button> */}
                   {/* <Button tag="a" color="dark" wideMobile>
                     ilan61300@gmail.com
               </Button> */}
