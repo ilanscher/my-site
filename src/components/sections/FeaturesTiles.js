@@ -71,7 +71,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    High Motivated
+                    Highly Motivated
                     </h4>
                   <p className="m-0 text-xs">
                   Highly motivated, ability to quickly identify and solve
