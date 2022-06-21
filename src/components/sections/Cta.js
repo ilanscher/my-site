@@ -67,9 +67,9 @@ const Cta = ({
               {/* <Button onPress={() => Linking.openURL('mailto:ilan61300@gmail.com?subject=SendMail&body=We are interested about tour profile') }
                 title="ilan61300@gmail.com">
               </Button> */}
-                  {/* <Button tag="a" color="dark" wideMobile>
+                  <Button tag="a" color="dark" wideMobile>
                     ilan61300@gmail.com
-              </Button> */}
+              </Button>
                   <Button tag="a" href="tel:0528109521" color="success" wideMobile>
                     052-810-9521
                     </Button>
